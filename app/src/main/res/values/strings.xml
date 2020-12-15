@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RFID tester</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="service_description">A service for implementing Apdu, written by Spark (while he had no clue how android works)</string>
+    <string name="aiddescription">Random AID-s</string>
+</resources>
